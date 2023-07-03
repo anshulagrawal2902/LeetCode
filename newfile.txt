@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes from local repo
+=======
+changes in new file
+>>>>>>> 8064ff2c8e309412a7af17d2cb5922cae18d9ee9
